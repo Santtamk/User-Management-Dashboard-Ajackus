@@ -1,4 +1,4 @@
-the site is live on : https://usermanagement1234.netlify.app/
+the site is live on : https://user-management-dashboard-ajackus-santam-kumai.vercel.app/
 
 
 Title
